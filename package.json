@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "tangtang",
   "version": "1.0.0",
   "author": "Shawn Wang",
   "description": "Hello",
@@ -28,7 +28,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "demo"
+            "name": "tangtang"
           }
         },
         {
